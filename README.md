@@ -13,6 +13,6 @@ Dette repoet benyttes til å samle relevant dokumentasjon for å ferdigstille [.
 ### Mappestruktur
 > Fyll ut og oppdater mappene etter behov.
 - [**/spesifikasjon**](/spesifikasjon): Inneholder detaljer om spesifikasjonene for skjemaet.
-  - [**/API**](/spesifikasjon/API): Inneholder API-endepunkter som brukes av skjemaet, inkludert detaljer om metoder, autentisering, og eksempler.
+  - [**/API**](/spesifikasjon/API): Inneholder API-endepunkter som brukes av skjemaet, inkludert autentisering, og eksempler.
 - [**/design**](/design): Dokumentasjon av designprosesser, brukergrensesnitt og flyt.
 - [**/krav**](/krav): Kravspesifikasjon for skjemaet, inkludert funksjonelle og ikke-funksjonelle krav.
