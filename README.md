@@ -1,8 +1,8 @@
 ![Client Logo](https://www.goomlandscapes.co.nz/wp-content/uploads/2018/08/logo-placeholder.png)
 
-# Dokumentasjon for <Skjema Navn> - Altinn 3.0
+# Dokumentasjon for [...] - Altinn 3.0
 
-Dette repoet benyttes til å samle relevant dokumentasjon for å ferdigstille <beskrivelse av skjemaet>.
+Dette repoet benyttes til å samle relevant dokumentasjon for å ferdigstille [...].
 
 ## Arbeidsområder
 **Altinn Studio:** [Sett inn lenke til ditt Altinn Studio skjema](<lenke-til-altinn-studio>) <br />
